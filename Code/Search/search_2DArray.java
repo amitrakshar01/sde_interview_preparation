@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class binary_search_2DArray {
+public class search_2DArray {
     public static void main(String[] args) {
         int[][] arr = {{10,20,30,40},
                        {12,22,32,42},
