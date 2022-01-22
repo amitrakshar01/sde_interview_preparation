@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "Code/Search"
+        "Code/Search",
+        "Leetcode_problems"
     ]
 }
